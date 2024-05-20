@@ -2,8 +2,11 @@
 
 Bem-vindo ao LabQuiz, um projeto simples de quiz desenvolvido em HTML e CSS básico. Este projeto visa criar um questionário online com 8 perguntas pré-determinadas.
 
+<<<<<<< HEAD
 ![Imagem do site LarPet](/img/Imagem1.png)
 
+=======
+>>>>>>> 07c6a9369261e27a55da3cc3527d788dbdf3e591
 ## Estrutura do Projeto
 
 O projeto consiste em um formulário HTML com 8 perguntas, cada uma acompanhada de opções de resposta pré-selecionadas. O estilo básico do formulário é definido através de um arquivo CSS.
